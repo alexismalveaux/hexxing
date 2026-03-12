@@ -1,1 +1,1 @@
-My guide for guiding
+My guide for guiding.

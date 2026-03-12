@@ -1,0 +1,8 @@
+{
+  "guides": [
+    {
+      "pattern": "hexxing/guides/*.md"
+    }
+  ]
+}
+
